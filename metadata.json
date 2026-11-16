@@ -1,0 +1,6 @@
+{
+  "name": "NIVORA",
+  "description": "Multi-role e-commerce and reselling app with a dynamic real-time Admin Control Panel, Bangla customer storefront, reseller commission dashboard, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
